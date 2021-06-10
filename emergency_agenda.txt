@@ -1,0 +1,7 @@
+police	091
+doctor	061
+fire	080
+emergency	112
+emergencies	112
+firefighter	080
+ambulance	061
